@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Criar uma landing page única para a **ImobiBrasil** que combine os melhores elementos das diferentes versões fornecidas tanto em React quanto em HTML estático, com foco em **design moderno**, **responsividade**, **performance** e **experiência do usuário**.
+Criar uma landing page única para a **ImobiBrasil** que combine os melhores elementos das diferentes versões fornecidas, tanto em React quanto em HTML estático, com foco em **design moderno**, **responsividade**, **performance** e **experiência do usuário**.
 
 ## 📂 Fontes de Conteúdo
 
